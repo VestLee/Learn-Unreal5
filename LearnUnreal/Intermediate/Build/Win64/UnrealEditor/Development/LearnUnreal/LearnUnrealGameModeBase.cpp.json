@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\learn-unreal5\\learnunreal\\source\\learnunreal\\learnunrealgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\learn-unreal5\\learnunreal\\intermediate\\build\\win64\\learnunrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\learn-unreal5\\learnunreal\\intermediate\\build\\win64\\unrealeditor\\development\\learnunreal\\definitions.learnunreal.h",
+            "f:\\learn-unreal5\\learnunreal\\source\\learnunreal\\learnunrealgamemodebase.h",
+            "f:\\unrealversions\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\unrealversions\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\unrealversions\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "f:\\unrealversions\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "f:\\learn-unreal5\\learnunreal\\intermediate\\build\\win64\\unrealeditor\\inc\\learnunreal\\learnunrealgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

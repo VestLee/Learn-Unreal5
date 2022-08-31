@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"F:\\Learn-Unreal5\\LearnUnreal\\Plugins\\LearnThirdPartyLib\\Source\\LearnThirdPartyLib\\LearnThirdPartyLib.Build.cs",
+		"F:\\Learn-Unreal5\\LearnUnreal\\Plugins\\LearnThirdPartyLib\\Source\\ThirdParty\\LearnThirdPartyLibLibrary\\LearnThirdPartyLibLibrary.Build.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

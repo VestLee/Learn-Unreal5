@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "f:\\learn-unreal5\\learnunreal\\plugins\\learnunrealplugin\\source\\learnunrealplugin\\private\\learnunrealplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\learn-unreal5\\learnunreal\\intermediate\\build\\win64\\learnunrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "f:\\learn-unreal5\\learnunreal\\plugins\\learnunrealplugin\\intermediate\\build\\win64\\unrealeditor\\development\\learnunrealplugin\\definitions.learnunrealplugin.h",
+            "f:\\learn-unreal5\\learnunreal\\plugins\\learnunrealplugin\\source\\learnunrealplugin\\public\\learnunrealplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

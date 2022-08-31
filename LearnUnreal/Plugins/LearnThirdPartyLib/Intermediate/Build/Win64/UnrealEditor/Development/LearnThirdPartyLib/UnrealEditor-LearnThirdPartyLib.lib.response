@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LearnThirdPartyLib.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Learn-Unreal5\LearnUnreal\Intermediate\Build\Win64\LearnUnrealEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"F:\Learn-Unreal5\LearnUnreal\Plugins\LearnThirdPartyLib\Intermediate\Build\Win64\UnrealEditor\Development\LearnThirdPartyLib\LearnThirdPartyLib.cpp.obj"
+"F:\Learn-Unreal5\LearnUnreal\Plugins\LearnThirdPartyLib\Intermediate\Build\Win64\UnrealEditor\Development\LearnThirdPartyLib\Default.rc2.res"
+/OUT:"F:\Learn-Unreal5\LearnUnreal\Plugins\LearnThirdPartyLib\Intermediate\Build\Win64\UnrealEditor\Development\LearnThirdPartyLib\UnrealEditor-LearnThirdPartyLib.lib"
